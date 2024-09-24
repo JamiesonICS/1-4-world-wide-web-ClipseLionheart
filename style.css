@@ -1,0 +1,16 @@
+h1 {
+    font-size: 40px;
+    font-family: arial;
+    font-style: italic;
+    color:blueviolet
+}
+
+p {
+    font-size: 25px;
+    font-family:helvetica;
+    color:midnightblue;
+}
+
+body {
+    background-color:bisque;
+}
